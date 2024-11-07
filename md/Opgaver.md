@@ -64,3 +64,11 @@ Opret en test fill til ovenstående validering `validateEmail.test.js` og skrive
 ## Opgave 3
 
 Se om i kan finde kode fra tidligere som i kan skrive test for
+
+## Opgave 4
+
+Valider at input til regne funtionerne i calculator.js er et tal og hvis ikke så opret en new error
+
+Du kan fx. bruge funktionerne parseFloat(value) og Number.isNaN(val)
+
+throw error

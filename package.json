@@ -7,7 +7,8 @@
 		"start": "webpack app.js --mode development --watch",
 		"build:dev": "webpack-dev-server",
 		"build": "webpack",
-		"test": "jest --watchAll"
+		"test": "jest",
+		"test:watch": "jest --watchAll"
 	},
 	"keywords": [
 		"js",
